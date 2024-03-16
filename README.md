@@ -5,6 +5,5 @@ Detectar contenido inapropiado: Puede utilizar filtros para detectar contenido i
 Gestión de roles: El bot puede asignar roles automáticamente a los usuarios basándose en ciertos criterios, como la antigüedad en el servidor o la participación.
 Registro de moderación: Puede registrar las acciones de moderación realizadas por los moderadores del servidor.
 Control de invitaciones: El bot puede monitorear las invitaciones al servidor y eliminar aquellas que no estén autorizadas.
-Aquí tienes un ejemplo básico de cómo podrías implementar algunas de estas funciones:
 
 Originally made for Github (elmak1na) . (github.com/elmak1na)
